@@ -1,0 +1,32 @@
+[
+    {
+        "id": "title",
+        "label": "Title",
+        "options": [
+            { "value": "Title 1", "label": "Title 1" },
+            { "value": "Title 2", "label": "Title 2" },
+            { "value": "Title 3", "label": "Title 3" },
+            { "value": "Title 4", "label": "Title 4" }
+        ]
+    },
+    {
+        "id": "published_date",
+        "label": "Published Date",
+        "options": [
+            { "value": "2022-01-01", "label": "2022-01-01" },
+            { "value": "2022-01-02", "label": "2022-01-02" },
+            { "value": "2022-01-03", "label": "2022-01-03" },
+            { "value": "2022-01-04", "label": "2022-01-04" }
+        ]
+    },
+    {
+        "id": "price",
+        "label": "Price",
+        "options": [
+            { "value": "10", "label": "10" },
+            { "value": "20", "label": "20" },
+            { "value": "30", "label": "30" },
+            { "value": "40", "label": "40" }
+        ]
+    }
+]
